@@ -1,0 +1,2 @@
+2022-02-02 15:40:10.1836|TRACE|Tiff2Excel.LogHelper|Application start
+2022-02-02 15:40:27.0945|TRACE|Tiff2Excel.LogHelper|extractRawData

@@ -1,0 +1,75 @@
+C:\Users\mic71864\source\repos\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.csproj.SuggestedBindingRedirects.cache
+C:\Users\mic71864\source\repos\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.Form1.resources
+C:\Users\mic71864\source\repos\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.Properties.Resources.resources
+C:\Users\mic71864\source\repos\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.csproj.GenerateResource.cache
+C:\Users\mic71864\source\repos\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.csproj.CoreCompileInputs.cache
+C:\Users\mic71864\source\repos\Tiff2Excel\Tiff2Excel\bin\Debug\Tiff2Excel.exe.config
+C:\Users\mic71864\source\repos\Tiff2Excel\Tiff2Excel\bin\Debug\Tiff2Excel.exe
+C:\Users\mic71864\source\repos\Tiff2Excel\Tiff2Excel\bin\Debug\Tiff2Excel.pdb
+C:\Users\mic71864\source\repos\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.exe
+C:\Users\mic71864\source\repos\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.pdb
+C:\Users\mic71864\source\repos\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.csproj.AssemblyReference.cache
+C:\Users\mic71864\source\repos\Tiff2Excel\Tiff2Excel\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Users\mic71864\source\repos\Tiff2Excel\Tiff2Excel\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\Users\mic71864\source\repos\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.csproj.CopyComplete
+C:\Users\koege\OneDrive\Desktop\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.csproj.AssemblyReference.cache
+C:\Users\koege\OneDrive\Desktop\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.Form1.resources
+C:\Users\koege\OneDrive\Desktop\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.Properties.Resources.resources
+C:\Users\koege\OneDrive\Desktop\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.csproj.GenerateResource.cache
+C:\Users\koege\OneDrive\Desktop\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.csproj.CoreCompileInputs.cache
+C:\Users\koege\OneDrive\Desktop\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.exe
+C:\Users\koege\OneDrive\Desktop\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.pdb
+C:\Users\koege\OneDrive\Desktop\Tiff2Excel\Tiff2Excel\bin\Debug\Tiff2Excel.exe.config
+C:\Users\koege\OneDrive\Desktop\Tiff2Excel\Tiff2Excel\bin\Debug\Tiff2Excel.exe
+C:\Users\koege\OneDrive\Desktop\Tiff2Excel\Tiff2Excel\bin\Debug\Tiff2Excel.pdb
+C:\Users\koege\OneDrive\Desktop\Tiff2Excel\Tiff2Excel\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Users\koege\OneDrive\Desktop\Tiff2Excel\Tiff2Excel\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\Users\koege\OneDrive\Desktop\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.csproj.CopyComplete
+G:\Meine Ablage\Arbeit\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.csprojAssemblyReference.cache
+G:\Meine Ablage\Arbeit\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.Form1.resources
+G:\Meine Ablage\Arbeit\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.Properties.Resources.resources
+G:\Meine Ablage\Arbeit\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.csproj.GenerateResource.cache
+G:\Meine Ablage\Arbeit\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.csproj.CoreCompileInputs.cache
+G:\Meine Ablage\Arbeit\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.exe
+G:\Meine Ablage\Arbeit\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.pdb
+G:\Meine Ablage\Arbeit\Tiff2Excel\Tiff2Excel\bin\Debug\Tiff2Excel.exe.config
+G:\Meine Ablage\Arbeit\Tiff2Excel\Tiff2Excel\bin\Debug\Tiff2Excel.exe
+G:\Meine Ablage\Arbeit\Tiff2Excel\Tiff2Excel\bin\Debug\Tiff2Excel.pdb
+G:\Meine Ablage\Arbeit\Tiff2Excel\Tiff2Excel\bin\Debug\BitMiracle.LibTiff.NET.dll
+G:\Meine Ablage\Arbeit\Tiff2Excel\Tiff2Excel\bin\Debug\BitMiracle.LibTiff.NET.xml
+G:\Meine Ablage\Arbeit\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.csproj.CopyComplete
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.Form1.resources
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.Properties.Resources.resources
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.csproj.GenerateResource.cache
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.csproj.CoreCompileInputs.cache
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.exe
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.pdb
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\bin\Debug\Tiff2Excel.exe.config
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\bin\Debug\Tiff2Excel.exe
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\bin\Debug\Tiff2Excel.pdb
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.csproj.CopyComplete
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\bin\Debug\NLog.config
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\bin\Debug\NLog.dll
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\bin\Debug\NLog.xml
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.csprojAssemblyReference.cache
+G:\Meine Ablage\Arbeit\Tiff2Excel\Tiff2Excel\bin\Debug\NLog.config
+G:\Meine Ablage\Arbeit\Tiff2Excel\Tiff2Excel\bin\Debug\NLog.dll
+G:\Meine Ablage\Arbeit\Tiff2Excel\Tiff2Excel\bin\Debug\NLog.xml
+C:\Users\koege\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.csproj.AssemblyReference.cache
+C:\Users\koege\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.Form1.resources
+C:\Users\koege\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.Properties.Resources.resources
+C:\Users\koege\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.csproj.GenerateResource.cache
+C:\Users\koege\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.csproj.CoreCompileInputs.cache
+C:\Users\koege\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.pdb
+C:\Users\koege\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\bin\Debug\NLog.config
+C:\Users\koege\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\bin\Debug\Tiff2Excel.exe.config
+C:\Users\koege\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\bin\Debug\Tiff2Excel.exe
+C:\Users\koege\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\bin\Debug\Tiff2Excel.pdb
+C:\Users\koege\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Users\koege\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\bin\Debug\NLog.dll
+C:\Users\koege\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\Users\koege\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\bin\Debug\NLog.xml
+C:\Users\koege\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.csproj.CopyComplete
+C:\Users\koege\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\obj\Debug\Tiff2Excel.exe

@@ -1,0 +1,13 @@
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\bin\Release\Tiff2Excel.exe.config
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\bin\Release\Tiff2Excel.exe
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\bin\Release\Tiff2Excel.pdb
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\bin\Release\BitMiracle.LibTiff.NET.dll
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\bin\Release\BitMiracle.LibTiff.NET.xml
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\obj\Release\Tiff2Excel.Form1.resources
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\obj\Release\Tiff2Excel.Properties.Resources.resources
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\obj\Release\Tiff2Excel.csproj.GenerateResource.cache
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\obj\Release\Tiff2Excel.csproj.CoreCompileInputs.cache
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\obj\Release\Tiff2Excel.csproj.CopyComplete
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\obj\Release\Tiff2Excel.exe
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\obj\Release\Tiff2Excel.pdb
+C:\Users\mic71864\Google Drive\Arbeit\Tiff2Excel\Tiff2Excel\obj\Release\Tiff2Excel.csprojAssemblyReference.cache
